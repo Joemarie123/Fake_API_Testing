@@ -1,0 +1,224 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "John",
+            "lastName": "Doe",
+            "age": 30,
+            "address": "123 Main St, Anytown, USA",
+            "AppliedPosition": "Front End Developer",
+            "YearsExperience": "3 Years",
+            "ExpectedSalary": "40,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar1.jpg"
+        },
+        {
+            "id": 2,
+            "firstName": "Joemarie",
+            "lastName": "Rendon",
+            "age": 30,
+            "address": "Magatos Asuncion Davao Del Norte",
+            "AppliedPosition": "Front End Developer",
+            "YearsExperience": "3 Years",
+            "ExpectedSalary": "40,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar2.jpg"
+        },
+        {
+            "id": 3,
+            "firstName": "Milanie",
+            "lastName": "Rullenas",
+            "age": 30,
+            "address": "Andap Laak Davao De Oro",
+            "AppliedPosition": "Back END Developer",
+            "YearsExperience": "3 Years",
+            "ExpectedSalary": "40,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar3.jpg"
+        },
+        {
+            "id": 4,
+            "firstName": "Jograd",
+            "lastName": "Mahusay",
+            "age": 30,
+            "address": "Tagum Davao Del Norte",
+            "AppliedPosition": "Back END Developer",
+            "YearsExperience": "3 Years",
+            "ExpectedSalary": "40,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar4.jpg"
+        },
+        {
+            "id": 5,
+            "firstName": "Anna",
+            "lastName": "Smith",
+            "age": 25,
+            "address": "456 Elm St, Somecity, USA",
+            "AppliedPosition": "UI/UX Designer",
+            "YearsExperience": "4 Years",
+            "ExpectedSalary": "50,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar5.jpg"
+        },
+        {
+            "id": 6,
+            "firstName": "Peter",
+            "lastName": "Parker",
+            "age": 28,
+            "address": "789 Oak St, Metropolis, USA",
+            "AppliedPosition": "Full Stack Developer",
+            "YearsExperience": "5 Years",
+            "ExpectedSalary": "60,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar6.jpg"
+        },
+        {
+            "id": 7,
+            "firstName": "Bruce",
+            "lastName": "Wayne",
+            "age": 35,
+            "address": "1007 Mountain Dr, Gotham, USA",
+            "AppliedPosition": "DevOps Engineer",
+            "YearsExperience": "7 Years",
+            "ExpectedSalary": "80,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar1.jpg"
+        },
+        {
+            "id": 8,
+            "firstName": "Clark",
+            "lastName": "Kent",
+            "age": 32,
+            "address": "344 Clinton St, Metropolis, USA",
+            "AppliedPosition": "Software Engineer",
+            "YearsExperience": "6 Years",
+            "ExpectedSalary": "70,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar2.jpg"
+        },
+        {
+            "id": 9,
+            "firstName": "Diana",
+            "lastName": "Prince",
+            "age": 28,
+            "address": "123 Amazonian Ln, Themyscira, USA",
+            "AppliedPosition": "Project Manager",
+            "YearsExperience": "8 Years",
+            "ExpectedSalary": "90,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar3.jpg"
+        },
+        {
+            "id": 10,
+            "firstName": "Tony",
+            "lastName": "Stark",
+            "age": 40,
+            "address": "10880 Malibu Point, Malibu, USA",
+            "AppliedPosition": "Lead Developer",
+            "YearsExperience": "10 Years",
+            "ExpectedSalary": "120,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar4.jpg"
+        },
+        {
+            "id": 11,
+            "firstName": "Natasha",
+            "lastName": "Romanoff",
+            "age": 29,
+            "address": "678 Spy St, Shield, USA",
+            "AppliedPosition": "Security Specialist",
+            "YearsExperience": "6 Years",
+            "ExpectedSalary": "75,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar5.jpg"
+        },
+        {
+            "id": 12,
+            "firstName": "Steve",
+            "lastName": "Rogers",
+            "age": 30,
+            "address": "789 Hero Blvd, Brooklyn, USA",
+            "AppliedPosition": "Product Manager",
+            "YearsExperience": "5 Years",
+            "ExpectedSalary": "65,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar6.jpg"
+        },
+        {
+            "id": 13,
+            "firstName": "Wanda",
+            "lastName": "Maximoff",
+            "age": 26,
+            "address": "456 Magic Ln, Sokovia, USA",
+            "AppliedPosition": "Front End Developer",
+            "YearsExperience": "4 Years",
+            "ExpectedSalary": "55,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar1.jpg"
+        },
+        {
+            "id": 14,
+            "firstName": "Scott",
+            "lastName": "Lang",
+            "age": 32,
+            "address": "123 Shrink St, San Francisco, USA",
+            "AppliedPosition": "Back End Developer",
+            "YearsExperience": "5 Years",
+            "ExpectedSalary": "70,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar2.jpg"
+        },
+        {
+            "id": 15,
+            "firstName": "Stephen",
+            "lastName": "Strange",
+            "age": 38,
+            "address": "177A Bleecker St, New York, USA",
+            "AppliedPosition": "Data Scientist",
+            "YearsExperience": "8 Years",
+            "ExpectedSalary": "90,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar3.jpg"
+        },
+        {
+            "id": 16,
+            "firstName": "Carol",
+            "lastName": "Danvers",
+            "age": 34,
+            "address": "890 Space Rd, Hala, USA",
+            "AppliedPosition": "Systems Engineer",
+            "YearsExperience": "7 Years",
+            "ExpectedSalary": "85,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar4.jpg"
+        },
+        {
+            "id": 17,
+            "firstName": "T'Challa",
+            "lastName": "Udaku",
+            "age": 35,
+            "address": "1 Panther Ln, Wakanda, USA",
+            "AppliedPosition": "Cybersecurity Expert",
+            "YearsExperience": "9 Years",
+            "ExpectedSalary": "100,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar5.jpg"
+        },
+        {
+            "id": 18,
+            "firstName": "Bruce",
+            "lastName": "Banner",
+            "age": 37,
+            "address": "789 Gamma St, Scienceville, USA",
+            "AppliedPosition": "Research Scientist",
+            "YearsExperience": "10 Years",
+            "ExpectedSalary": "110,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar6.jpg"
+        },
+        {
+            "id": 19,
+            "firstName": "Thor",
+            "lastName": "Odinson",
+            "age": 1000,
+            "address": "1 Asgardian Way, Asgard, USA",
+            "AppliedPosition": "Cloud Engineer",
+            "YearsExperience": "8 Years",
+            "ExpectedSalary": "95,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar1.jpg"
+        },
+        {
+            "id": 20,
+            "firstName": "Loki",
+            "lastName": "Laufeyson",
+            "age": 1005,
+            "address": "2 Mischief Ln, Asgard, USA",
+            "AppliedPosition": "System Administrator",
+            "YearsExperience": "7 Years",
+            "ExpectedSalary": "85,000",
+            "avatar": "https://cdn.quasar.dev/img/avatar2.jpg"
+        }
+    ]
+}
